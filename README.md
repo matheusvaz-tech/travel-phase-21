@@ -1,5 +1,7 @@
 # Rocket Travel
 
+![Rocket Travel Preview](./images/preview-rocket-travel.png)
+
 > Projeto **Rocket Travel** desenvolvido para praticar os conhecimentos de GIT e CLI.
 
 ## 🛠️ Conhecimentos
